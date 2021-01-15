@@ -5,7 +5,6 @@
   * Name: Boseong Yun (Peter)
   * Major: Public Pollicy
   * Acadmeic interests: Social and Gender equality
-  * hobby: Youtube
 
 
 * Reflections
