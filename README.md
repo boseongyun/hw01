@@ -4,8 +4,7 @@
 * Introduction
   * Name: Boseong Yun (Peter)
   * Major: Public Pollicy
-  * Acadmeic interests: Social and Gender equality
-
+  * Acadmeic interests: social inequality
 
 * Reflections
   * Github Workflow
