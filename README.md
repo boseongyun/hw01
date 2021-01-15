@@ -15,7 +15,7 @@
 ## Introduction
 ![me](Michigan.jpg)
 
-My name is **Boseong Yun** and please feel free to call me **Peter**! I am a first-year grdaute student studying public policy at the Harris School of Public Policy. I am studying to quantify gender inequalites in text, image, sound, and other kinds of unstructured data. Please do not hesitate to talk to me if you have any questions that I can help you with and it is really nice to meet you all! 
+My name is **Boseong Yun** and please feel free to call me **Peter**! I am a first-year grdaute student studying public policy at the Harris School of Public Policy. I am studying to quantify social and gender inequalites in both traditional and non-traiditional data including text, image, sound, and other kinds of unstructured data. Please do not hesitate to talk to me if you have any questions that I can help you with and it is really nice to meet you all! 
 
 ## Reflections
 
